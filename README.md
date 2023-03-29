@@ -1,2 +1,2 @@
 # MI_Tanfolyam
-Ebben a repoban gyűjtjük össze a tanulást segítő anyagainkat.
+Ebben a repoban gyűjtjük össze a tanfolyamaink anyagait, illetve néhány jegyzetet.
