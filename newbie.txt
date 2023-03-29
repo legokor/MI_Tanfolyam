@@ -1,1 +1,60 @@
- 
+[https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured Siraj Raval]:
+Végtelen ötletet tudtok meríteni erről a csarotnáról ha szeretnél valamivel foglalkozni de nincs ötleted, rengeted témát érint, kezdésnek rábökni egy random videóra jó tud lenni.
+
+Példának okáért, amik a fentebbi csatornán előfordulnak:
+
+    Részvény árfolyam előrejelző (regresszor + sok adat)
+    Tetszőleges chatbot
+    Zene generálás
+    Zene, Film, akármi ajánló rendszer
+    Tetszőleges osztályozó
+    és akármi amit találtok.
+
+A csatorna ismét: https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured
+
+Illetve ajánlom figyelembe:
+
+    Gépi tanulás:               https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
+    Supervised tanulás I:       https://medium.com/machine-learning-for-humans/supervised-learning-740383a2feab
+    Supervised tanulás II:      https://medium.com/machine-learning-for-humans/supervised-learning-2-5c1c23f3560d
+    Supervised tanuás III:      https://medium.com/machine-learning-for-humans/supervised-learning-3-b1551b9c4930
+    Unsupervised :              https://medium.com/machine-learning-for-humans/unsupervised-learning-f45587588294
+    Neuron hálók:               https://medium.com/machine-learning-for-humans/neural-networks-deep-learning-cdad8aeae49b
+    Reinforcement learning:     https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265
+    Tanuláshoz még több forrás: https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1
+
+Ha nem félsz a matektól, minden ami ML:(Mathematical Monk)
+https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w
+
+------------------------------------------------------------------
+/*Boros Ábel egy régi emailjéből nagyjából idézve:*/
+
+Elméteti anyagok, amik segíthetnek elindulni a témában:
+A coursera-ás gépi tanulásos/neurális hálós tanfolyam, amit mondtam, elég hosszú és széles tudást foglal magába , minden anyagrész végén gyakorlattal. Egy, a témában nagyon nagy nevű, stanfordi professzor tartja, nagyon érthetően, én végigcsináltam anno és nagyon sokat segített a dolgok matekjának megértésében, mindenképpen ajánlom:
+
+    Hosszabb:_
+    Kezdésnek:https://www.coursera.org/learn/machine-learning
+    Rövidebb:
+    Gépi tanulás: https://www.kaggle.com/learn/machine-learning
+    Deep learning: https://www.kaggle.com/learn/deep-learning
+    Finomságok: https://eu.udacity.com/courses/school-of-ai
+
+------------------------------------------------------------------
+/*Rabatin Gábor egy régi emailjéből nagyjából idézve:*/
+
+Tutorialok:
+    Egy kis Python szösszenet, ne csak átpörgessétek, hanem próbáljátok is ki!
+    https://learnxinyminutes.com/docs/python3/
+    A Tensorflow alapjait bemutató tutorial sorozat.
+    https://www.tensorflow.org/get_started/get_started
+    Keras tutorial:
+    https://keras.io/getting-started/sequential-model-guide/
+
+Elméleti összefoglalók:
+
+    Udacity-s elméleti anyag:: https://www.udacity.com/course/deep-learning--ud730
+    Workshopos videók:
+    http://bss.sch.bme.hu/video/lego-mi-tanfolyam-1-alkalom
+    http://bss.sch.bme.hu/video/lego-mi-tanfolyam-2-alkalom
+    http://bss.sch.bme.hu/video/lego-mi-tanfolyam-3-alkalom
+    http://bss.sch.bme.hu/video/lego-mi-tanfolyam-4-alkalom
