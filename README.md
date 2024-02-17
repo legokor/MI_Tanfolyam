@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/made%20by-Lego%20AI%20Team-blue.svg)](https://legokor.hu/projects/mesterseges_intelligencia/)
 # MI_Tanfolyam
 Ebben a repoban gyűjtjük össze a tanfolyamaink anyagait, illetve néhány jegyzetet.
 
