@@ -6,7 +6,7 @@ Ebben a repoban gyűjtjük össze a tanfolyamaink anyagait, illetve néhány jeg
 1. [Első előadás](./Tanfolyamanyagok/Neuralis_halozatok.pdf)
 2. Második előadás
 3. 
-4. Vizuális adatok intelligens feldolgozása -> [Szemenyei jegyzete](./jegyzetek/jegyzetExport%C3%A1lt.pdf)
+4. Vizuális adatok intelligens feldolgozása -> [Szemenyei jegyzete](./jegyzetek/jegyzetExport.pdf)
 5.
 6.
 
